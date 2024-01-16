@@ -1,4 +1,4 @@
-name: check_syntax
+name: check_syntaxzad4.yml
 
 on:
   push:
